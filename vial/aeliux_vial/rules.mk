@@ -1,0 +1,5 @@
+MOUSEKEY_ENABLE     	= yes
+BOOTMAGIC_ENABLE    	= yes
+TAP_DANCE_ENABLE    	= yes
+MACROS_ENABLED      	= yes
+COMBO_ENABLE		    = yes

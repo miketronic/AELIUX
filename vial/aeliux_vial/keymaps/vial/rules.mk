@@ -1,0 +1,9 @@
+VIA_ENABLE		= yes
+VIAL_ENABLE		= yes
+VIAL_INSECURE	= yes
+
+MOUSEKEY_ENABLE     	= yes
+BOOTMAGIC_ENABLE    	= yes
+TAP_DANCE_ENABLE    	= yes
+MACROS_ENABLED      	= yes
+COMBO_ENABLE		    = yes
